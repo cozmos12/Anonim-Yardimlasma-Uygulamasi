@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442121074455",
+    "project_id": "denemeklones",
+    "storage_bucket": "denemeklones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442121074455:android:a6dade950de1c4aa852952",
+        "android_client_info": {
+          "package_name": "com.example.mtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442121074455-hqt1j95q2l69ghh6hpdlhn7un2armsum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD59QdKf1yMzsKSsITQF0L11CwQSz4pZFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442121074455-hqt1j95q2l69ghh6hpdlhn7un2armsum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

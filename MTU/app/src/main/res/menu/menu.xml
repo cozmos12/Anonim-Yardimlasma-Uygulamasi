@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item  android:id="@+id/yükle" android:title="yükleme ekranı"></item>
+
+    <item  android:id="@+id/çıkış" android:title="çıkış"></item>
+</menu>
